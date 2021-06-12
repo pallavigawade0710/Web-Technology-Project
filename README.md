@@ -16,4 +16,4 @@ Download zip file and Unzip file on your local server.
 Put this file inside "c:/xamp/www/" .
 Database Configuration Open phpmyadmin Create Database named project5. Import database project.sql from downloaded folder(inside database)
 Open Your browser put inside "http://localhost/onlineexaminatation/"
-To Login as admin put "http://localhostonlineexaminatation//admin" Admin Login Details Login Id:gawade0710@gmail.com Password: admin
+To Login as admin put "http://localhost/onlineexaminatation//admin" Admin Login Details Login Id:gawade0710@gmail.com Password: admin
